@@ -1,0 +1,8 @@
+C:\Marian - 9D\Task9March\CommandsV2\bin\Debug\CommandsV2.exe.config
+C:\Marian - 9D\Task9March\CommandsV2\bin\Debug\CommandsV2.exe
+C:\Marian - 9D\Task9March\CommandsV2\bin\Debug\CommandsV2.pdb
+C:\Marian - 9D\Task9March\CommandsV2\obj\Debug\CommandsV2.csproj.AssemblyReference.cache
+C:\Marian - 9D\Task9March\CommandsV2\obj\Debug\CommandsV2.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\Task9March\CommandsV2\obj\Debug\CommandsV2.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\Task9March\CommandsV2\obj\Debug\CommandsV2.exe
+C:\Marian - 9D\Task9March\CommandsV2\obj\Debug\CommandsV2.pdb
