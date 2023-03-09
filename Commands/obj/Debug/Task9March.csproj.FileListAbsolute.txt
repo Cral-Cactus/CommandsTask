@@ -1,0 +1,8 @@
+C:\Marian - 9D\Task9March\Task9March\bin\Debug\Task9March.exe.config
+C:\Marian - 9D\Task9March\Task9March\bin\Debug\Task9March.exe
+C:\Marian - 9D\Task9March\Task9March\bin\Debug\Task9March.pdb
+C:\Marian - 9D\Task9March\Task9March\obj\Debug\Task9March.csproj.AssemblyReference.cache
+C:\Marian - 9D\Task9March\Task9March\obj\Debug\Task9March.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\Task9March\Task9March\obj\Debug\Task9March.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\Task9March\Task9March\obj\Debug\Task9March.exe
+C:\Marian - 9D\Task9March\Task9March\obj\Debug\Task9March.pdb
